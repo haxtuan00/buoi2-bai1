@@ -1,0 +1,16 @@
+.wrap-btn{
+  border-radius: 20px;
+  margin: 15px 0;
+  overflow: hidden;
+box-shadow: 4px 5px 7px -2px #000000;
+}
+.btn{
+    width: 100px;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background:#f78c78;
+    font-weight: 600;
+    color: white;
+}
